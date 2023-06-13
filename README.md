@@ -6,7 +6,7 @@ Shoppers Point is an e-commerce platform that specializes in clothing. Users can
 
 This project was built using HTML5, CSS3, JavaScript, Rest API. It is an e-commerce products based web application and for running on your local environment you should follow these guidelines.
 
-Setup
+# Setup
 
 The project repository can be found in GitHub or just clone the project using this command.
 
@@ -89,12 +89,12 @@ To begin with the project, you need to clone the repository onto your device.
 ![Screenshot (1916)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/37226340-74e7-4ff3-bc95-6aaf1fd55c6f)
 
 
-Demo Video
+# Demo Video
 
 https://drive.google.com/file/d/1oGo9dwNuxuz3pGu0vDlvLlpc3lI969tY/view?usp=sharing
 
 
-Install
+# Install
 
 To run the application open index.html in the live server.
 
