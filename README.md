@@ -98,9 +98,9 @@ https://drive.google.com/file/d/1oGo9dwNuxuz3pGu0vDlvLlpc3lI969tY/view?usp=shari
 
 To run the application open index.html in the live server.
 
-Tools used on this project
+# Tools used on this project
 
 Visual Studio Code
 
-Show your support
-Give a ⭐️ if you like this project!
+# Show your support
+# Give a ⭐️ if you like this project!
