@@ -1,6 +1,6 @@
-# Fashionology(Clone of Anthropologie)
+# Shoppers Point(Clone of YOOX)
 
-FashionoLogy is an e-commerce platform that specializes in clothing. Users can register and explore a diverse range of trendy products, add them to their cart, and proceed to checkout. They can provide their payment and shipping information at checkout, and once the payment is processed, they will be redirected to the homepage.
+Shoppers Point is an e-commerce platform that specializes in clothing. Users can register and explore a diverse range of trendy products, add them to their cart, and proceed to checkout. 
 
 # Getting Started
 
@@ -8,89 +8,73 @@ To begin with the project, you need to clone the repository onto your device.
 
 # Tech Stack
 
-## Frontend
-
 - HTML
 - CSS
 - JavaScript
-- React
-- React-Router-Dom
-- Redux
-- React-Redux
-- Chakra UI
-- Styled Components
-
-## Backend
-
-### cyclic server
-
-- https://agile-sweatshirt-worm.cyclic.app
-- MongoDB
-- Node.js
 
 ## Pages
 
 - Home Page
 - SignUp and Login
 - Products Page
+- Welcome User Page
 - Product Description
-- Cart Page
-- Payment and Checkout Page
-- admin Page
+- Cart Page & Checkout
 
 ## Features
 
 - Home Page
-- Login and Signup - protected routes functionality.
-- Shopping Page - View Products by categories, filter, sort, and pagination functionality.
+- Login and Signup - used localstorage
+- Shopping Page - View Products by categories.
 - Product Description Page.
-- Cart Page - Add and delete from cart functionality.
-- Payment and Checkout Page.
-- Used Redux for centralizing logic and manage state.
+- Cart Page - Add, delete from cart functionality and increase and decrease product quantity.
 
 ## Functionalities
 
 - Login and Registration.
 - View Products by categories.
-- Filter products.
-- Sort by Price.
 - Add to Cart.
 - Deleting from Cart.
-- Admin functionality for CRUD operations.
-- Payment.
 
 ## Features to be Implemented in Future
 
 - Wishlist Page and functionality.
+- Payment checkout page
 - Order management on admin side.
 
-## Contribution
-
-- Rishabh Roy
-- Samreen Inayat
-- kumkum Dutta
-- Prabhat Kumar
-
-## Deployed Link :- https://fashionology.vercel.app/
+## Deployed Link :- https://stirring-cocada-9ed5ac.netlify.app/
 
 ## screenshot
 
 ## Home Page
 
-![Image](/frontend/public/Screenshot%202023-05-13%20131716.png)
+![Screenshot (1910)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/6f928c38-550f-4443-a450-8350cf0c38d3)
+
+## Register page
+
+![Screenshot (1911)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/98148686-a3cf-4935-8f0f-fd6585422268)
+
+
+## Login page
+
+![Screenshot (1912)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/359aa59c-c7db-4b8f-a8ff-df1ad3359fe9)
+
+
+## Welcome user page
+
+![Screenshot (1913)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/c3498395-2e3e-4a7c-a4e2-bd90550e7830)
+
 
 ## Product page
 
-![Image](/frontend/public/Screenshot%202023-05-13%20131742.png)
+![Screenshot (1915)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/7c6e97fd-09a2-40f8-99ce-e6809ad87257)
 
-## Single Product Page
+![Screenshot (1914)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/df482244-5209-49b1-a667-f7037f031e9c)
 
-![Image](/frontend/public/singleProduct.png)
 
 ## Cart
 
-![Image](/frontend/public/cart.png)
+![Screenshot (1916)](https://github.com/Summi51/dazzling-wing-7781/assets/73363392/37226340-74e7-4ff3-bc95-6aaf1fd55c6f)
 
-## Payment
 
-![Image](/frontend/public/payment.png)
+
