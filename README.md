@@ -37,6 +37,7 @@ To begin with the project, you need to clone the repository onto your device.
 
 - Home Page
 - Login and Signup - used localstorage
+- Image Slider
 - Shopping Page - View Products by categories.
 - Product Description Page.
 - Cart Page - Add, delete from cart functionality and increase and decrease product quantity.
@@ -44,9 +45,10 @@ To begin with the project, you need to clone the repository onto your device.
 ## Functionalities
 
 - Login and Registration.
-- View Products by categories.
+- Image Slider
 - Add to Cart.
 - Deleting from Cart.
+- Increase and decrease product quantity
 
 ## Features to be Implemented in Future
 
@@ -91,8 +93,7 @@ To begin with the project, you need to clone the repository onto your device.
 
 # Demo Video
 
-https://drive.google.com/file/d/1oGo9dwNuxuz3pGu0vDlvLlpc3lI969tY/view?usp=sharing
-
+https://drive.google.com/file/d/1K_U-1NJqG_r3O9wcm8KGYI2GIZ7VJKqM/view?usp=sharing
 
 ## Install
 
